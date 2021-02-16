@@ -1108,24 +1108,19 @@ section.lazy-placeholder:after {
 .cid-rOkbl88L3O B {
   color: #000000;
 }
-.cid-rXpmn5hpbJ {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #db7c20;
+.cid-spbqP00qhh {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
 }
-.cid-rXpmn5hpbJ .mbr-section-subtitle {
+.cid-spbqP00qhh P {
   color: #767676;
-  text-align: center;
 }
-.cid-rXpmn5hpbJ .btn {
-  margin: 0 0 .5rem 0;
+.cid-spbqP00qhh H1 {
+  color: #db7c20;
 }
-.cid-rXpmn5hpbJ H2 {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-rXpmn5hpbJ .mbr-section-subtitle B {
-  color: #ffffff;
+.cid-spbqP00qhh H3 {
+  color: #db7c20;
 }
 .cid-rNAB88hNTO {
   padding-top: 90px;
@@ -1149,6 +1144,25 @@ section.lazy-placeholder:after {
   .cid-rNAB88hNTO .inner-container {
     width: 100% !important;
   }
+}
+.cid-rXpmn5hpbJ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #db7c20;
+}
+.cid-rXpmn5hpbJ .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+}
+.cid-rXpmn5hpbJ .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rXpmn5hpbJ H2 {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-rXpmn5hpbJ .mbr-section-subtitle B {
+  color: #ffffff;
 }
 .cid-rNAuwCwz26 {
   background-image: url("../../../assets/images/copia-2-de-lidia-hablando-787x523.jpg");
@@ -4137,131 +4151,24 @@ section.lazy-placeholder:after {
 .cid-rOkqMKGged .mbr-text {
   color: #767676;
 }
-.cid-rOkrtIbPHG {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
+.cid-spbrvOMXTx {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #db7c20;
 }
-@media (min-width: 992px) {
-  .cid-rOkrtIbPHG .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-rOkrtIbPHG .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-rOkrtIbPHG .mbr-text {
+.cid-spbrvOMXTx .mbr-section-subtitle {
   color: #767676;
+  text-align: center;
 }
-.cid-rOkrwZSpNT {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
+.cid-spbrvOMXTx .btn {
+  margin: 0 0 .5rem 0;
 }
-@media (min-width: 992px) {
-  .cid-rOkrwZSpNT .mbr-figure {
-    padding-right: 4rem;
-  }
+.cid-spbrvOMXTx H2 {
+  text-align: center;
+  color: #ffffff;
 }
-@media (max-width: 992px) {
-  .cid-rOkrwZSpNT .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-rOkrwZSpNT .mbr-text {
-  color: #767676;
-}
-.cid-rOkrxCerqf {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-rOkrxCerqf .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-rOkrxCerqf .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-rOkrxCerqf .mbr-text {
-  color: #767676;
-}
-.cid-rOkryCo6ab {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-rOkryCo6ab .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-rOkryCo6ab .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-rOkryCo6ab .mbr-text {
-  color: #767676;
-}
-.cid-rOkrzecw9j {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-rOkrzecw9j .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-rOkrzecw9j .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-rOkrzecw9j .mbr-text {
-  color: #767676;
-}
-.cid-rOkrzVuSpQ {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-rOkrzVuSpQ .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-rOkrzVuSpQ .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-rOkrzVuSpQ .mbr-text {
-  color: #767676;
-}
-.cid-rOkrBdSLpk {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-rOkrBdSLpk .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-rOkrBdSLpk .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-rOkrBdSLpk .mbr-text {
-  color: #767676;
+.cid-spbrvOMXTx .mbr-section-subtitle B {
+  color: #ffffff;
 }
 .cid-rNBm84TOZQ {
   padding-top: 90px;
