@@ -4125,51 +4125,6 @@ section.lazy-placeholder:after {
 .cid-rOkwajY7Yi .content-slider-wrap {
   width: 60%;
 }
-.cid-rOksi5j3HK {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rOksi5j3HK .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rOkqMKGged {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-rOkqMKGged .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-rOkqMKGged .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-rOkqMKGged .mbr-text {
-  color: #767676;
-}
-.cid-spbrvOMXTx {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #db7c20;
-}
-.cid-spbrvOMXTx .mbr-section-subtitle {
-  color: #767676;
-  text-align: center;
-}
-.cid-spbrvOMXTx .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-spbrvOMXTx H2 {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-spbrvOMXTx .mbr-section-subtitle B {
-  color: #ffffff;
-}
 .cid-rNBm84TOZQ {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -7728,10 +7683,6 @@ section.lazy-placeholder:after {
 .cid-sbwB1oDuRn .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-sbwB1oDuRn .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-sbwB1oDuRn .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-sbwB1oDuRn .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-sbwB1oDuRn .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -7825,10 +7776,6 @@ section.lazy-placeholder:after {
   .cid-sbwB1oDuRn .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-sbwB1oDuRn .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-sbwB1oDuRn .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-sbwB1oDuRn .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-sbwB1oDuRn .navbar-collapse.collapsing .navbar-buttons,
   .cid-sbwB1oDuRn .navbar-collapse.show .navbar-buttons {
