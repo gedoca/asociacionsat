@@ -1,0 +1,76 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: Flyer SAT 1 FINAL.ai
+Modo de color: Color RGB
+Perfil de color: ninguno
+Unidades de regla: píxeles
+Dimensiones de la mesa de trabajo: 1128 px x 2005 px
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Avenir Medium (TrueType)
+Avenir Black (TrueType)
+Avenir Roman (TrueType)
+Avenir Heavy (TrueType)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+G:\Mi unidad\TRABAJOS DISEÑO Y PERSONALES\Aramí\Material visual y referencias\Fotos Claudio\claudion 5.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 4900K, 1113 por 1503 píxeles
+Dimensiones: 1065,632 por 1439,034 puntos 
+Resolución: 75,2 por 75,2 píxeles por pulgada
+
+
+G:\Mi unidad\TRABAJOS DISEÑO Y PERSONALES\Aramí\Material visual y referencias\Fotos Claudio\claudion 5.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 4900K, 1113 por 1503 píxeles
+Dimensiones: 1065,632 por 1439,034 puntos 
+Resolución: 75,2 por 75,2 píxeles por pulgada
+
+
+G:\Mi unidad\TRABAJOS DISEÑO Y PERSONALES\Aramí\Material visual y referencias\Fotos Claudio\claudion 5.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 4900K, 1113 por 1503 píxeles
+Dimensiones: 1387,62 por 1873,848 puntos 
+Resolución: 57,751 por 57,751 píxeles por pulgada
+
+
+G:\Mi unidad\TRABAJOS DISEÑO Y PERSONALES\Aramí\Material visual y referencias\Fotos Claudio\claudion 5.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 4900K, 1113 por 1503 píxeles
+Dimensiones: 1387,62 por 1873,848 puntos 
+Resolución: 57,751 por 57,751 píxeles por pulgada
