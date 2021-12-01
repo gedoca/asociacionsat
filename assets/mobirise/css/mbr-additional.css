@@ -1087,7 +1087,7 @@ section.lazy-placeholder:after {
 }
 .cid-rOkbl88L3O {
   padding-top: 45px;
-  padding-bottom: 120px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/img-2325-1-2000x1125.jpg");
 }
 .cid-rOkbl88L3O .mbr-figure {
@@ -1108,19 +1108,27 @@ section.lazy-placeholder:after {
 .cid-rOkbl88L3O B {
   color: #000000;
 }
-.cid-spbqP00qhh {
+.cid-sQlFzq2Rux {
   padding-top: 90px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
+  padding-bottom: 60px;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
 }
-.cid-spbqP00qhh P {
-  color: #767676;
+@media (min-width: 992px) {
+  .cid-sQlFzq2Rux .mbr-figure {
+    padding-left: 4rem;
+  }
 }
-.cid-spbqP00qhh H1 {
-  color: #db7c20;
+@media (max-width: 991px) {
+  .cid-sQlFzq2Rux .mbr-figure {
+    padding-top: 3rem;
+  }
 }
-.cid-spbqP00qhh H3 {
-  color: #db7c20;
+.cid-sQlFzq2Rux .mbr-section-title {
+  color: #e89544;
+}
+.cid-sQlFzq2Rux .mbr-text,
+.cid-sQlFzq2Rux .mbr-section-btn {
+  color: #000000;
 }
 .cid-rNAB88hNTO {
   padding-top: 90px;
@@ -5747,6 +5755,65 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rS0dyGedZK P {
+  color: #ffffff;
+}
+.cid-sQo3zZJW0U {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/claudio-1600x900.jpg");
+}
+.cid-sQo3zZJW0U .mbr-media span {
+  font-size: 48px;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  line-height: 6rem;
+  position: relative;
+  display: inline-block;
+  transition: all 0.25s;
+  color: #353535;
+}
+.cid-sQo3zZJW0U .mbr-media span.mbri-play:before {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-35%);
+  -moz-transform: translateX(-35%);
+  -ms-transform: translateX(-35%);
+  -o-transform: translateX(-35%);
+  transform: translateX(-35%);
+}
+.cid-sQo3zZJW0U .modalWindow {
+  position: fixed;
+  z-index: 5000;
+  left: 0;
+  top: 0;
+  background-color: rgba(61, 61, 61, 0.65);
+  width: 100%;
+  height: 100%;
+}
+.cid-sQo3zZJW0U .modalWindow .modalWindow-container {
+  display: table-cell;
+  vertical-align: middle;
+}
+.cid-sQo3zZJW0U .modalWindow .modalWindow-video {
+  height: calc(44.9943757vw);
+  width: 80vw;
+  margin: 0 auto;
+}
+.cid-sQo3zZJW0U a.close {
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  color: #ffffff;
+  z-index: 5000000;
+  font-size: 37px;
+  background: #000;
+  padding: 20px;
+  border-radius: 50%;
+}
+.cid-sQo3zZJW0U a.close:hover {
   color: #ffffff;
 }
 .cid-rS0ef9e00p {
