@@ -12562,7 +12562,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-ttudbEWjPR {
-  background-image: url("../../../assets/images/img-8006-2000x1333.jpg");
+  background-image: url("../../../assets/images/img-250-2000x1333.jpeg");
 }
 .cid-ttudbEWjPR h1 {
   color: #616161;
@@ -12710,15 +12710,23 @@ section.lazy-placeholder:after {
 .cid-ttudbPGSwV B {
   color: #ffffff;
 }
-.cid-tvbHr3BLXt {
+.cid-tvziNDmRYo {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-tvziNDmRYo .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-tvzhDaEJun {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #efefef;
 }
-.cid-tvbHr3BLXt .list-group-item {
+.cid-tvzhDaEJun .list-group-item {
   padding: .75rem 3.25rem;
 }
-.cid-tvbHr3BLXt .plan {
+.cid-tvzhDaEJun .plan {
   word-break: break-word;
   position: relative;
   max-width: 300px;
@@ -12726,14 +12734,14 @@ section.lazy-placeholder:after {
   padding-left: 0;
   color: #767676;
 }
-.cid-tvbHr3BLXt .plan .list-group-item {
+.cid-tvzhDaEJun .plan .list-group-item {
   position: relative;
   -webkit-justify-content: center;
   justify-content: center;
   background-color: transparent;
   border: 0;
 }
-.cid-tvbHr3BLXt .plan .list-group-item::after {
+.cid-tvzhDaEJun .plan .list-group-item::after {
   position: absolute;
   bottom: 0;
   left: 20%;
@@ -12742,27 +12750,27 @@ section.lazy-placeholder:after {
   content: "";
   background-color: #eaeaea;
 }
-.cid-tvbHr3BLXt .plan .list-group-item:last-child::after {
+.cid-tvzhDaEJun .plan .list-group-item:last-child::after {
   display: none;
 }
-.cid-tvbHr3BLXt .plan.favorite {
+.cid-tvzhDaEJun .plan.favorite {
   background-color: #fff;
   box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.07);
 }
-.cid-tvbHr3BLXt .plan-header {
+.cid-tvzhDaEJun .plan-header {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-.cid-tvbHr3BLXt .price-figure {
+.cid-tvzhDaEJun .price-figure {
   font-weight: 700;
   color: #232323;
 }
-.cid-tvbHr3BLXt .price-value {
+.cid-tvzhDaEJun .price-value {
   font-weight: 700;
   vertical-align: top;
 }
 @media (max-width: 550px) {
-  .cid-tvbHr3BLXt .price-figure {
+  .cid-tvzhDaEJun .price-figure {
     font-size: 4.25rem;
   }
 }
