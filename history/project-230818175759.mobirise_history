@@ -65,9 +65,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishType": "local",
-    "mbrsite": "mbrsite://%7B%22id%22%3A323089%2C%22domain%22%3A%22634oelm97x.mobirisesite.com%22%7D",
-    "publishPath": "file:///C:/Users/Acer/Desktop/WEB"
+    "publishType": "mbrsite",
+    "mbrsite": "mbrsite://%7B%22id%22%3A323089%2C%22domain%22%3A%22634oelm97x.mobirisesite.com%22%7D"
   },
   "pages": {
     "index.html": {
