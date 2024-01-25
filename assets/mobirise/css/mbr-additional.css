@@ -1108,6 +1108,29 @@ section.lazy-placeholder:after {
 .cid-rOkbl88L3O B {
   color: #000000;
 }
+.cid-u2peXAmU7G {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-u2peXAmU7G .line {
+  background-color: #d3411e;
+  color: #d3411e;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-u2peXAmU7G .section-text {
+  padding: 2rem 0;
+}
+.cid-u2peXAmU7G .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-u2peXAmU7G .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-tu4LHQIPCP {
   padding-top: 60px;
   padding-bottom: 15px;
@@ -12707,26 +12730,26 @@ section.lazy-placeholder:after {
 .cid-ttucGaCfVB .mbr-section-subtitle {
   color: #767676;
 }
-.cid-ttubXFc2uY {
+.cid-u2pem9YkId {
   padding-top: 30px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-ttubXFc2uY .counter-container {
+.cid-u2pem9YkId .counter-container {
   color: #767676;
 }
-.cid-ttubXFc2uY .counter-container ol {
+.cid-u2pem9YkId .counter-container ol {
   margin-bottom: 0;
   counter-reset: myCounter;
 }
-.cid-ttubXFc2uY .counter-container ol li {
+.cid-u2pem9YkId .counter-container ol li {
   margin-bottom: 1rem;
 }
-.cid-ttubXFc2uY .counter-container ol li {
+.cid-u2pem9YkId .counter-container ol li {
   list-style: none;
   padding-left: .5rem;
 }
-.cid-ttubXFc2uY .counter-container ol li:before {
+.cid-u2pem9YkId .counter-container ol li:before {
   position: absolute;
   left: 0px;
   margin-top: -10px;
